@@ -198,12 +198,12 @@ Na árvore de Commits é possível observar que em todos os momentos de criaçã
 
 1. Clone este repositório remoto em seu equipamento:
 ```
-git clone git@github.com:SENAI-SD/QA-JR-00723-2023-010.565.852-93.git
+git clone git@github.com:DuAlexandre/senai_qa_challenge.git
 ```
 
 2. Acesse a pasta do projeto:
 ````
-cd QA-JR-00723-2023-010.565.852-93/qa_senai 
+cd senai_qa_challenge/qa_senai 
 ````
 
 3. Renomeie o arquivo `.env.example` para `.env`;
