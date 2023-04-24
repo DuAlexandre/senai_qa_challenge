@@ -74,7 +74,7 @@ Para este projeto foram utilizadas as seguintes tecnologias:
 <br>
 
 ### Resumo
-O projeto consiste em uma plataforma para micro-gerenciamento de recursos humanos. Conta com a possibilidade de cadastros laborais por Departamento e de Colaboradores. Além disso, é possível a visualisação de gráfico de dashboard de número de colaboradores por departamento e a criação de relatórios em PDF, impressão ou copiar as tabelas para área de transferência.
+O projeto consiste em uma plataforma para micro-gerenciamento de recursos humanos. Conta com a possibilidade de cadastros laborais por Departamento e de Colaboradores. Além disso, é possível a visualização de gráfico de dashboard de número de colaboradores por departamento e a criação de relatórios em PDF, impressão ou copiar as tabelas para área de transferência.
 
 <br>
 
